@@ -1,2 +1,2 @@
-# C-s-nav-projeleri
+# C#sinav-projeleri
 3 adet sınav sorusu
